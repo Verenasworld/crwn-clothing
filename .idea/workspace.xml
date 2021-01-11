@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a740858c-14e0-4c06-a8b9-d715c5328d08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/crown.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.comppnent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form-input/form-input.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form-input/form-input.style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/sing-in-and-sign-up/sing-in-and-sign-up.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/sing-in-and-sign-up/sing-in-and-sign-up.style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
@@ -62,6 +67,17 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -94,7 +110,8 @@
       <workItem from="1610304699606" duration="140000" />
       <workItem from="1610305070322" duration="54000" />
       <workItem from="1610305136744" duration="233000" />
-      <workItem from="1610305384813" duration="1853000" />
+      <workItem from="1610305384813" duration="3426000" />
+      <workItem from="1610374463374" duration="6075000" />
     </task>
     <task id="LOCAL-00001" summary="Master Project: React Router and Routing">
       <created>1609929619257</created>
@@ -110,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610292288897</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Folge 81 fertig -add Header component">
+      <created>1610307551508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610307551508</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +156,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Master Project: React Router and Routing" />
     <MESSAGE value="Folge 80 fertig -add collection item and shoppage component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Folge 80 fertig -add collection item and shoppage component" />
+    <MESSAGE value="Folge 81 fertig -add Header component" />
+    <option name="LAST_COMMIT_MESSAGE" value="Folge 81 fertig -add Header component" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
