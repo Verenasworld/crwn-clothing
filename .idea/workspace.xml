@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a740858c-14e0-4c06-a8b9-d715c5328d08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
+    <list default="true" id="a740858c-14e0-4c06-a8b9-d715c5328d08" name="Default Changelist" comment="Folge 87-95 fertig -add firebase auth &amp; google sign in button">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.comppnent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.comppnent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sign-in/sign-in.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +96,9 @@
       <workItem from="1610374463374" duration="6075000" />
       <workItem from="1610398302484" duration="445000" />
       <workItem from="1610530627598" duration="150000" />
-      <workItem from="1610530804819" duration="6630000" />
+      <workItem from="1610530804819" duration="10996000" />
+      <workItem from="1610731300852" duration="12000" />
+      <workItem from="1611086907346" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="Master Project: React Router and Routing">
       <created>1609929619257</created>
@@ -127,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610307551508</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Folge 87-95 fertig -add firebase auth &amp; google sign in button">
+      <created>1610542558427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610542558427</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +163,8 @@
     <MESSAGE value="Master Project: React Router and Routing" />
     <MESSAGE value="Folge 80 fertig -add collection item and shoppage component" />
     <MESSAGE value="Folge 81 fertig -add Header component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Folge 81 fertig -add Header component" />
+    <MESSAGE value="Folge 87-95 fertig -add firebase auth &amp; google sign in button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Folge 87-95 fertig -add firebase auth &amp; google sign in button" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
