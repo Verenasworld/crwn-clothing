@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a740858c-14e0-4c06-a8b9-d715c5328d08" name="Default Changelist" comment="Folge 87-95 fertig -add firebase auth &amp; google sign in button">
-      <change afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.styles.scss" afterDir="false" />
+    <list default="true" id="a740858c-14e0-4c06-a8b9-d715c5328d08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sign-up/sign-up.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/sing-in-and-sign-up/sing-in-and-sign-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sing-in-and-sign-up/sing-in-and-sign-up.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/sing-in-and-sign-up/sing-in-and-sign-up.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sing-in-and-sign-up/sing-in-and-sign-up.style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +105,7 @@
       <workItem from="1611219317804" duration="49000" />
       <workItem from="1611219381492" duration="103000" />
       <workItem from="1611341649968" duration="1344000" />
+      <workItem from="1611653857926" duration="3695000" />
     </task>
     <task id="LOCAL-00001" summary="Master Project: React Router and Routing">
       <created>1609929619257</created>
@@ -140,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611087758459</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Folge 87-101 fertig - storing user Data set up">
+      <created>1611654059466</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611654059466</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +186,8 @@
     <MESSAGE value="Folge 81 fertig -add Header component" />
     <MESSAGE value="Folge 87-95 fertig -add firebase auth &amp; google sign in button" />
     <MESSAGE value="Folge 100 createUserProfileDocument" />
-    <option name="LAST_COMMIT_MESSAGE" value="Folge 100 createUserProfileDocument" />
+    <MESSAGE value="Folge 87-101 fertig - storing user Data set up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Folge 87-101 fertig - storing user Data set up" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
