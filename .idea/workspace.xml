@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a740858c-14e0-4c06-a8b9-d715c5328d08" name="Default Changelist" comment="">
+    <list default="true" id="a740858c-14e0-4c06-a8b9-d715c5328d08" name="Default Changelist" comment="section112 setting up redux 1">
+      <change afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sign-up/sign-up.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/sing-in-and-sign-up/sing-in-and-sign-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sing-in-and-sign-up/sing-in-and-sign-up.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/sing-in-and-sign-up/sing-in-and-sign-up.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sing-in-and-sign-up/sing-in-and-sign-up.style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +55,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Users\veren\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\203.6682.168\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -62,6 +65,17 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -106,6 +120,14 @@
       <workItem from="1611219381492" duration="103000" />
       <workItem from="1611341649968" duration="1344000" />
       <workItem from="1611653857926" duration="3695000" />
+      <workItem from="1611751600976" duration="2226000" />
+      <workItem from="1611754035004" duration="50000" />
+      <workItem from="1611840852614" duration="595000" />
+      <workItem from="1611913502194" duration="632000" />
+      <workItem from="1612102240175" duration="1309000" />
+      <workItem from="1612522290231" duration="1661000" />
+      <workItem from="1612533684183" duration="2147000" />
+      <workItem from="1612779309309" duration="2179000" />
     </task>
     <task id="LOCAL-00001" summary="Master Project: React Router and Routing">
       <created>1609929619257</created>
@@ -166,13 +188,28 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="abschnitt6" />
+                        <option value="Abschnitt7" />
                       </list>
                     </value>
                   </entry>
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Abschnitt7" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
