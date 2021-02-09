@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a740858c-14e0-4c06-a8b9-d715c5328d08" name="Default Changelist" comment="" />
+    <list default="true" id="a740858c-14e0-4c06-a8b9-d715c5328d08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/redux/user/user.types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +114,7 @@
       <workItem from="1612522290231" duration="1661000" />
       <workItem from="1612533684183" duration="2147000" />
       <workItem from="1612779309309" duration="4719000" />
-      <workItem from="1612863152273" duration="1326000" />
+      <workItem from="1612863152273" duration="2766000" />
     </task>
     <task id="LOCAL-00001" summary="Master Project: React Router and Routing">
       <created>1609929619257</created>
@@ -173,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612864550814</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="section114-115 - fix bug -  implement user Reducer and user Actions to header and app component">
+      <created>1612864724819</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612864724819</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +242,8 @@
     <MESSAGE value="section112-113 setting up redux 2 - import Provider and store ( Redux config )" />
     <MESSAGE value="section114-115" />
     <MESSAGE value="section114-115 - fix bug -  sign in component" />
-    <option name="LAST_COMMIT_MESSAGE" value="section114-115 - fix bug -  sign in component" />
+    <MESSAGE value="section114-115 - fix bug -  implement user Reducer and user Actions to header and app component" />
+    <option name="LAST_COMMIT_MESSAGE" value="section114-115 - fix bug -  implement user Reducer and user Actions to header and app component" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
