@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a740858c-14e0-4c06-a8b9-d715c5328d08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/redux/user/user.types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Mwplogobig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/shopping-bag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.comppnent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.comppnent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +36,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1meNqtyLU7tMF2qPBvMKfLqwOLP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,8 +63,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -62,6 +81,19 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -114,7 +146,7 @@
       <workItem from="1612522290231" duration="1661000" />
       <workItem from="1612533684183" duration="2147000" />
       <workItem from="1612779309309" duration="4719000" />
-      <workItem from="1612863152273" duration="2766000" />
+      <workItem from="1612863152273" duration="7505000" />
     </task>
     <task id="LOCAL-00001" summary="Master Project: React Router and Routing">
       <created>1609929619257</created>
@@ -186,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612864724819</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="section116 updating our app to redirect to home if user is signed in">
+      <created>1612866241541</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612866241541</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +282,8 @@
     <MESSAGE value="section114-115" />
     <MESSAGE value="section114-115 - fix bug -  sign in component" />
     <MESSAGE value="section114-115 - fix bug -  implement user Reducer and user Actions to header and app component" />
-    <option name="LAST_COMMIT_MESSAGE" value="section114-115 - fix bug -  implement user Reducer and user Actions to header and app component" />
+    <MESSAGE value="section116 updating our app to redirect to home if user is signed in" />
+    <option name="LAST_COMMIT_MESSAGE" value="section116 updating our app to redirect to home if user is signed in" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
